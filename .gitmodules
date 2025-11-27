@@ -1,0 +1,3 @@
+[submodule "julia-repl-server"]
+	path = julia-repl-server
+	url = https://github.com/qute-lj/claude_skill_julia-repl-server.git
